@@ -14,3 +14,5 @@ Marvel iOS Application written in Swift 5 using VIPER.
 * Open the terminal and navigate to the directory of project.
 * Install Dependencies with Cocoapods.
 * Open the workspace.
+
+It's neccesary set your API Public Key and API Private Key of https://developer.marvel.com/
